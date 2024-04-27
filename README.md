@@ -59,7 +59,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![alt text](image.png)
+![image](https://github.com/HIRU-VIRU/QRdecomposition/assets/145972122/f231fa5d-dbd9-4ea1-ba44-0024547bb4a8)
+
 ```
 
 ## Result
